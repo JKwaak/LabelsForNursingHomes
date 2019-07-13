@@ -1,0 +1,23 @@
+
+.parent{
+  position: relative;
+}
+.headerbutton1{
+  position: absolute;
+  right: 10px;
+  top: 5px;
+}
+.headerbutton2{
+  position: absolute;
+  right: 120px;
+  top: 5px;
+}
+.name{
+  background-color: blue;
+}
+
+
+
+
+
+
